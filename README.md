@@ -32,3 +32,5 @@ Includes Referal system admin can decide the referal percentage
 11. Analytics for individual Links created.
 
 protection from xss,cross site attacks
+
+For more updates and support contribute us at https://www.paypal.me/bhanutejay
