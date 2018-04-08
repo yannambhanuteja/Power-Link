@@ -1,7 +1,7 @@
 # Power-Link
 power link is a url shortener clone of Adfly,linkshrink e.t.c has many of the features they posses
 Now Add More Security by adding Captcha before link shrink
-
+power link shortener is build using laravel 5.4
 Don’t lose your income because of AdBlockers.Now Adblock Detector has been Added.
 Fast and easy to install with the installation video provided in the documentation.
 
