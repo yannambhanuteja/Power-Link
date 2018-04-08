@@ -3,12 +3,7 @@ power link is a url shortener clone of Adfly,linkshrink e.t.c has many of the fe
 Now Add More Security by adding Captcha before link shrink
 
 Don’t lose your income because of AdBlockers.Now Adblock Detector has been Added.
-
-Power Link Shortener is a Adfly,linkshrink clone with 100+ countries integrated and power full admin panel with detailed analytics.Check out the demo at http://socialreviews.me/
-
 Fast and easy to install with the installation video provided in the documentation.
-
-Admin details: email: admin@admin.com password: password
 
 Features :
 
